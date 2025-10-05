@@ -17,5 +17,6 @@ public class NewClass1 {
 
     public int getLegAmount() {
         return legAmount;
+
     }
 }
