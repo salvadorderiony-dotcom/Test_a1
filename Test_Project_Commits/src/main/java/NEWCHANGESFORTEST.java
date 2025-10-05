@@ -4,6 +4,6 @@ public class NEWCHANGESFORTEST {
     int high;
 
     asdasdsdasd
-    FIXED
+    FIXEDФЫЫ
 
 }
