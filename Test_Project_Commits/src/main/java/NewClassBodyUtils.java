@@ -15,4 +15,5 @@ public class NewClassBodyUtils {
     NewClass1[] bodies4 = {body1, body2, body3, body4, body5, body6, body7, body8};
     NewClass1[] bodies5 = {body1, body2, body3, body4, body5, body6, body7, body8};
     NewClass1[] bodies6 = {body1, body2, body3, body4, body5, body6, body7, body8};
+    NewClass1[] bodies7 = {body1, body2, body3, body4, body5, body6, body7, body8};
 }
